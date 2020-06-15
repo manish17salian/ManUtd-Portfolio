@@ -1,0 +1,73 @@
+
+
+“The best there’s ever been? Yes, he is nothing less than fantastic.”
+— Sir Bobby Charlton
+
+
+First Division/Premier League: 20
+FA Cup: 12
+League Cup: 5
+European Cup/Champions League: 3
+UEFA Cup Winners' Cup: 1
+UEFA Europe League: 1
+
+
+
+United’s flag is deepest red
+It shrouded all our Munich dead
+Before their limbs grew stiff and cold
+Their heart’s blood dyed it’s ev’ry fold
+Then raise United’s banner high
+Beneath it’s shade we’ll live and die
+So keep the faith and never fear
+
+We’ll keep the Red Flag flying here
+We’ll never die, we’ll never die
+We’ll never die, we’ll never die
+We’ll keep the Red flag flying high
+‘Cos Man United will never die
+
+
+
+
+
+PremierLeague
+
+Manchester United have won a record 13 titles in the Premier League since the top flight of English football was given that new name in 1992.
+
+Sir Alex Ferguson was the man who masterminded the triumph in the inaugural Premier League season, in 1992/93. The Reds went on to win titles in 1994, 1996, 1997, 1999, 2000, 2001, 2003, 2007, 2008, 2009, 2011 and 2013 – more than all other clubs put together to date
+
+United's title triumph of 2008/09 was achieved despite a slow start to the campaign and the rigours of fighting for seven trophies (the Club World Cup, Champions League, Premier League, FA Cup, League Cup, UEFA Super Cup and Community Shield). The Reds eventually clicked into gear, finishing the league season in style with 18 wins from the final 21 games. Only a point was required against Arsenal on the penultimate weekend, and a goalless draw at Old Trafford secured United's 11th title since the Premier League began and the club's 18th League Championship overall.
+
+After Chelsea won the Double under Carlo Ancelott in 2009/10, the Reds wrestled the title back to Old Trafford with a success based on the foundation of an incredible home record. After the West Londoners were beaten in front of a jubilant home crowd in a virtual title decider in May 2011, a point at Blackburn sealed the 12th league success of Sir Alex's remarkable reign with Wayne Rooney's penalty ensuring United could not be caught at the top.
+
+That title set a new record for the English top flight of 19 in total, but United were made to wait for the 20th after missing out in the 2011/12 season by the most agonising of margins - local rivals Manchester City snatched the prize in the dying seconds of their final league game.
+
+Stung by this, the Reds vowed to bounce back and did so in style, actually winning the 2012/13 title race with four games to spare. Summer 2012 signing Robin van Persie underlined the impact he'd made in his debut season by scoring a hat-trick in the decisive 3-0 win over Aston Villa on 22 April 2013.
+
+
+
+
+
+
+<div class="navigation">
+            <input type="checkbox" class="navigation__checkbox" id="navi-toggle">
+            <label for="navi-toggle" class="navigation__button">
+                <div class="navigation__logo">
+                    <img src="img/navlogo.png" class="navigation__logo-img">
+                </div>
+                <span class="navigation__icon"></span>
+            </label>
+            <div class="navigation__background">&nbsp;</div>
+            <nav class="navigation__nav">
+                <ul class="navigation__list">
+                    <li class="navigation__item"><a href="#prosp" class="navigation__links">EXPLORE</a></li>
+                    <li class="navigation__item"><a href="#trophyroom" class="navigation__links">TROPHY ROOM</a></li>
+                    <li class="navigation__item"><a href="#individualAwards" class="navigation__links">INDIVIDUAL AWARDS</a></li>
+                    <li class="navigation__item"><a href="#fanchant" class="navigation__links">FAN CHANT</a></li>
+                    <li class="navigation__item"><a href="#gallery" class="navigation__links">GALLERY</a></li>
+
+                </ul>
+
+            </nav>
+        </div>
